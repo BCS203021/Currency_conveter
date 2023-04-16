@@ -1,4 +1,4 @@
-# Currency_conveter
+# Currency-Converter GUI Application
 
 
 This Currency Converter is a Python project that uses real-time API to convert one currency to another.
@@ -15,3 +15,5 @@ The project can be useful for people who need to convert currencies regularly, s
 ![image](https://user-images.githubusercontent.com/82740940/230711450-1acc59eb-fa71-4f14-b350-96d900b6b647.png)
 
 ![image](https://user-images.githubusercontent.com/82740940/230711498-f46ba1c7-f397-4cb9-a48c-157dd5129b3e.png)
+
+
